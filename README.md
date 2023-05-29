@@ -1,5 +1,6 @@
 
 # Projeto Desenvolvidos nas aulas de PHP no curso Tecnico em Desenvolvimento de Sistemas - Senai Botucatu - SP:
+![PHP](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT94D99lBZAOmEVlcojc5BOr9xz_Pvyg_4Fcw&usqp=CAU)
 
 Projeto desenvolvido em PHP durante as aulas do curso Tecnico em desenvolvimento de sistemas, projeto de software de intranet de pátio de vendas de veículos, onde foram trabalhados front-end, back-end e banco de dados. 
 
